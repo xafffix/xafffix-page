@@ -17,7 +17,7 @@ const PROJECTS = [
     name: 'this portfolio',
     desc: 'the thing you are looking at right now. react + vite, dark and minimal.',
     tags: ['react', 'vite'],
-    link: 'https://github.com/xafffix',
+    link: 'https://github.com/xafffix/xafffix-page/',
   },
 ]
 
